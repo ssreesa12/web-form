@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(sand-sea-mountain-beach-wallpaper-preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    ;
+}
+div.form {
+    background-color: rgba(0,0, 0,0.6)
+    
+   
+}
+div.main{
+     width: 500px;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+   color: white;
+}
+h1{
+     font-family:'PT Sans Caption', sans-serif;
+   text-align: center;
+}
+div.form{
+    box-shadow: 2px 2px 15px;
+    border-radius: 0.5cm;
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    
+}
+input#bbb{
+    padding: 5px;
+    width: 250px;
+    border-radius: 2cm;
+    border-width:5px ;
+    border-color: black;
+    box-shadow: 2px 2px 2px white ;
+margin-left: 40px;
+}
+input#aaa{
+    padding: 5px;
+    width: 250px;
+    border-radius: 2cm;
+    border-width:5px ;
+    border-color: black;
+    box-shadow: 2px 2px 2px white ;
+margin-left: 40px;
+}
+input#sss{
+    padding: 5px;
+    width: 250px;
+    border-radius: 2cm;
+    border-width:5px ;
+    border-color: black;
+    box-shadow: 2px 2px 2px white ;
+
+margin-left: 40px;
+}
+label{
+    margin: 40px;
+    height: 10px;
+    width: 10px;
+}
+h4{
+    height: 30px;
+    margin-left: 50px;
+}
+label{
+    box-shadow: none;
+    border: none;
+    width: 1px;
+}
+button{
+    width: 5cm;
+    margin-left : 4cm ;
+    margin-bottom: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 35px;
+    border-color: black;
+    border-width: 5px;
+    box-shadow: 2px 2px 2px white;
+}
+    
+
+    
+
